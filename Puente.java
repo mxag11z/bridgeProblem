@@ -1,5 +1,5 @@
 import java.util.Arrays;
-//Esta solucion implementa la solucion al problema de bridge&Torch, usando recursividad.
+//Esta solucion implementa la solucion al problema de bridge&Torch, usando recursividad---.
 public class Puente {
 
     public static int opt(int[] tiempos, int tiempoTotal) {
